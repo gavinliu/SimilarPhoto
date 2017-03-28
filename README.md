@@ -4,7 +4,7 @@
 
 ## Screenshots
 
-![](Screenshots.gif)
+![](screenshots.gif)
 
 ## Code
 
