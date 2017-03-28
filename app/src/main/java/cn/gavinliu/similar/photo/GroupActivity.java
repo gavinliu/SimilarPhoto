@@ -87,6 +87,7 @@ public class GroupActivity extends AppCompatActivity {
 
             TextView name = (TextView) convertView.findViewById(R.id.name);
             LinearLayout linearLayout = (LinearLayout) convertView.findViewById(R.id.images);
+            linearLayout.removeAllViews();
 
             name.setText("Group: " + position);
 
